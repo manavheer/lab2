@@ -1,0 +1,12 @@
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\Calculator.exe
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\nunit.framework.dll
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\Calculator.exe.config
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\bin\Debug\nunit.framework.xml
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\SONY\source\repos\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
